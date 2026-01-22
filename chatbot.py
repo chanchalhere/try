@@ -1,5 +1,5 @@
 from langchain_huggingface import HuggingFaceEndpoint,ChatHuggingFace 
-from dotenv import load_dotenv
+from dotenv import load_doten
 from langchain_core.messages import SystemMessage, HumanMessage,AIMessage
 from langchain_core.prompts import ChatPromptTemplate,MessagePlaceholder
 
